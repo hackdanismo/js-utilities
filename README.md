@@ -31,7 +31,7 @@ $ npm install @hackdanismo/js-utilities
 
 The package is currently hosted on `npm` here: `https://www.npmjs.com/package/@hackdanismo/js-utilities`
 
-## Using the Package
+## Using the Package
 Once installed we can start to use the package. Begin by importing the function to be used using the `import` keyword in the JavaScript file or React component.
 
 ```javascript
