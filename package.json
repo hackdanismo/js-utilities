@@ -1,0 +1,17 @@
+{
+  "name": "@hackdanismo/js-utilities",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dan Jackson",
+  "license": "GPL-3.0-only"
+}
