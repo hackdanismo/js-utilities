@@ -53,7 +53,7 @@ In this example, we are importing the `foo()` and `bar()` methods:
 import { foo, bar } from "@hackdanismo/js-utilities";
 ```
 
-We can the use the function, or functions, we require in our code:
+We can then use the function, or functions, we require in our code:
 
 ```javascript
 foo();
