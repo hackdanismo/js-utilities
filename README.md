@@ -7,7 +7,7 @@ We can setup a project for `JavaScript` or `React` by using `Vite`:
 $ npm create vite@latest
 ```
 
-## Publish the package
+## Publish the package
 The package can be published to `npm (Node Package Manager)`. Firstly, login to `npm`:
 
 ```shell
